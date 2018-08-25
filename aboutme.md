@@ -1,5 +1,6 @@
 ---
 layout: page
+use-site-title: true
 ---
 
 ### Tatiana Benaglia

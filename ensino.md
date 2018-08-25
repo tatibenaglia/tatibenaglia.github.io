@@ -1,7 +1,10 @@
 ---
 layout: page
-title: "Ensino"
+title: ""
+use-site-title: true
 ---
+
+## Ensino
 
 ### Graduação
 
@@ -13,3 +16,5 @@ title: "Ensino"
 * ME115 - Introdução à Linguagem R 
 
 ### Pós-Graduação
+* MI813 - Tópicos em Estatística - Modelos de Mistura Finita (Verão 2009)
+* MI404 - Métodos Estatísticos (Verão 2014)

@@ -28,7 +28,7 @@ use-site-title: false
 
 <div class="row">
 <div class="column left">
-  <img src="img/ProfileTatiana.jpg"/>
+  <img src="img/ProfileTatiana.jpg">
 </div>
 <div class="column right" style="background-color:#bbb;">
     <h2>Tatiana Benaglia, PhD </h2>
@@ -36,12 +36,15 @@ use-site-title: false
     </div>
 </div>
 
+<p>
+
 #### Formação Acadêmica/Titulação
 - Graduação em Estatística - UNICAMP (1998 - 2001)
 - Mestrado em Estatística - UNICAMP (2002 - 2004)
 - Doutorado em Estatística - The Pennsylvania State University (2004 - 2008)
 - Pós-Doutorado - Medical Research Center - Biostatistics Unit (MRC-BSU) - Cambridge/UK (2009-2012)
 
+<p>
 
 #### Áreas de Pesquisa
 * Estatística Não-Paramétrica

@@ -4,7 +4,7 @@ title: ""
 use-site-title: true
 ---
 
-### Tatiana Benaglia
+## Tatiana Benaglia
 
 ### Resumo
 Docente e pesquisadora (MS3) do Departamento de Estatística no Instituto de Matemática, Estatística e Computação Científica (IMECC) da Universidade Estadual de Campinas (UNICAMP) desde Julho 2013. 

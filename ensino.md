@@ -7,13 +7,23 @@ use-site-title: false
 ## Ensino
 
 ### Graduação
+* ME111 - Laboratório de Estatística (1S2016)
+* ME115 - Introdução à Linguagem R (1S2018)
+* ME323 - Introdução aos Modelos Probabilísticos (1S2014)
+* ME414 - Estatística para Experimentalistas (2S2015, 2S2016, 2S2018)
+* ME415 -  Método Científico de Técnicas de Pesquisa (2S217)
+* ME430 - Técnicas de Amostragem (2S2016, 2S2017)
+* ME623 - Planejamento e Análise de Experimentos (2S2013, 2S2015, 1S2017)
+* ME610 - Estatística Aplicada (2S217)
+* ME630 - Iniciação Científica I (2S2014, 1S2017)
+* ME730 - Iniciação Científica II (2S2014, 1S2017)
+* ME710 - Estágio Supervisionado I (2S2014, 1S2017)
+* ME810 - Estágio Supervisionado II (2S2014, 1S2017)
+* ME712 - Consultoria Estatística I (1S2017)
+* ME812 - Consultoria Estatística II (1S2017)
+* ME850 - Seminários (1S2017)
+* ME906 - Métodos em Aprendizado Supervisionado de Máquina (2S2018)
 
-#### 2S2018
-* ME414 - Estatística para Experimentalistas
-* ME906 - Métodos em Aprendizado Supervisionado de Máquina
-
-#### 1S2018
-* ME115 - Introdução à Linguagem R 
 
 ### Pós-Graduação
 * MI813 - Tópicos em Estatística - Modelos de Mistura Finita (Verão 2009)

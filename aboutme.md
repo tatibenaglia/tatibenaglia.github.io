@@ -4,7 +4,7 @@ use-site-title: false
 ---
 
 <div class="columns-2">
-<img src="img/ProfileTatiana.jpg" width=200 style="float: left; margin-right: 10px;" />
+<img src="img/ProfileTatiana.jpg" width=200 style="float: left; margin-right: 10px;">
 
 <h2>Tatiana Benaglia, PhD </h2>
     <p>Docente e pesquisadora (MS-3.1) do Departamento de Estatística no Instituto de Matemática, Estatística e Computação Científica ([IMECC](http://www.ime.unicamp.br)) da Universidade Estadual de Campinas ([UNICAMP](http://www.unicamp.br)) desde Julho 2013. </p>
@@ -18,6 +18,6 @@ use-site-title: false
 - Pós-Doutorado - Medical Research Center - Biostatistics Unit (MRC-BSU) - Cambridge/UK (2009-2012)
 
 #### Áreas de Pesquisa
-* Estatística Não-Paramétrica
-* Modelos de Mistura
-* Análise de Tecnologia de Saúde
+- Estatística Não-Paramétrica
+- Modelos de Mistura
+- Análise de Tecnologia de Saúde

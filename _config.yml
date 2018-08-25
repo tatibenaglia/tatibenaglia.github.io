@@ -23,12 +23,12 @@ Tatiana Benaglia's personal webpage
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Sobre mim"
-  Resources:
+  About Me: "About Me"
+  Sites:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    - Markdown: "http://www.markdowntutorial.com/"
+    - GitHub: "https://github.com/"
+  Ensino: "Ensino"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -36,7 +36,7 @@ avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /img/ProfileTatiana.jpg
+title-img: "/img/ProfileTatiana.jpg"
 
 # --- Background colour/image options --- #
 

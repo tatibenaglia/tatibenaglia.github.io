@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-use-site-title: true
+use-site-title: false
 ---
 
 ## Ensino

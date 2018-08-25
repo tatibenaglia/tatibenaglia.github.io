@@ -4,11 +4,11 @@ use-site-title: false
 ---
 
 <div class="columns-2">
-<img src="img/ProfileTatiana.jpg" width=200 style="float: left; margin-right: 10px;">
-</div>
-<div class="columns-2">
-<h2>Tatiana Benaglia, PhD </h2>
-    <p>Docente e pesquisadora (MS-3.1) do Departamento de Estatística no Instituto de Matemática, Estatística e Computação Científica [http://www.ime.unicamp.br](IMECC) da [http://www.unicamp.br](UNICAMP) desde Julho 2013. </p>
+<img src="img/ProfileTatiana.jpg" style="float: left">
+
+#### Tatiana Benaglia, PhD
+
+Docente e pesquisadora (MS-3.1) do Departamento de Estatística no Instituto de Matemática, Estatística e Computação Científica [http://www.ime.unicamp.br](IMECC) da [http://www.unicamp.br](UNICAMP) desde Julho 2013.
 </div>
 
 #### Formação Acadêmica/Titulação

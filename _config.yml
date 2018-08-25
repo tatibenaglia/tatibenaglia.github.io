@@ -75,9 +75,9 @@ author:
 social-network-links:
   rss: false
   email: "tatiana at ime.unicamp.br"
-  facebook: tatibenaglia
   github: tatibenaglia
   linkedin: tatibenaglia
+#  facebook: tatibenaglia
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -94,7 +94,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  github: true
+  github: false
   facebook: true
   google: false
   linkedin: true

@@ -1,6 +1,6 @@
 ---
-layout: minimal
-title: About Me
+layout: page
+title: About me
 subtitle: 
 ---
 

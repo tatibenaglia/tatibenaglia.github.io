@@ -8,15 +8,14 @@ use-site-title: false
 .column {
     float: left;
     padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
 }
 
 .left {
-  width: 25%;
+  width: 40%;
 }
 
 .right {
-  width: 75%;
+  width: 60%;
 }
 
 /* Clear floats after the columns */
@@ -29,12 +28,12 @@ use-site-title: false
 
 <div class="row">
 <div class="column left">
-  <img src="img/ProfileTatiana.jpg" width=200/>
+  <img src="img/ProfileTatiana.jpg"/>
 </div>
 <div class="column right" style="background-color:#bbb;">
-  ### Tatiana Benaglia, PhD
-  <p>Docente e pesquisadora (MS-3.1) do Departamento de Estatística no Instituto de Matemática, Estatística e Computação Científica (IMECC) da Universidade Estadual de Campinas (UNICAMP) desde Julho 2013. </p>
-</div>
+    <h2>Tatiana Benaglia, PhD </h2>
+    <p>Docente e pesquisadora (MS-3.1) do Departamento de Estatística no Instituto de Matemática, Estatística e Computação Científica (IMECC) da Universidade Estadual de Campinas (UNICAMP) desde Julho 2013. </p>
+    </div>
 </div>
 
 #### Formação Acadêmica/Titulação

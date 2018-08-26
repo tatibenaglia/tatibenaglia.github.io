@@ -23,3 +23,4 @@ Docente e pesquisadora (MS-3.1) do Departamento de Estatística no Instituto de 
 - Estatística Não-Paramétrica
 - Modelos de Mistura
 - Análise de Tecnologia de Saúde
+- Estatística Aplicada

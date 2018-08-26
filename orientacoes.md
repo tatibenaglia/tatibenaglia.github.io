@@ -18,6 +18,7 @@ Dissertação: Modelos de Mistura para Dados Longitudinais de Habilidade Cogniti
 ----
 
 ### Graduação
+
 #### Iniciação Científica
 
 Victor Dalla Pria Cunha (Fomento: PIBIC, em andamento) <br />

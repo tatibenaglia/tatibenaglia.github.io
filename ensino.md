@@ -4,7 +4,9 @@ title: ""
 use-site-title: false
 ---
 
-## Ensino
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
+## <i class="fas fa-chalkboard-teacher"></i> Ensino
 
 ### Graduação
 * ME111 - Laboratório de Estatística (1S2016)
@@ -28,3 +30,9 @@ use-site-title: false
 ### Pós-Graduação
 * MI813 - Tópicos em Estatística - Modelos de Mistura Finita (Verão 2009)
 * MI404 - Métodos Estatísticos (Verão 2014)
+
+
+### Outros
+Minicurso - Introdução ao Aprendizado de Máquinas usando R - XII Encontro Científico dos Pós-Graduandos do IMECC (Outubro 2017)
+
+Curso - Planejamento e Análise de Experimentos - Facultad de Medicina, Universidad de la República, Montevidéu, Uruguai (Dezembro 2017)

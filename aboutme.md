@@ -17,7 +17,7 @@ Docente e pesquisadora (MS-3.1) do Departamento de Estatística no Instituto de 
 - Pós-Doutorado - Medical Research Center - Biostatistics Unit (MRC-BSU) - Cambridge/UK (2009-2012)
 
 
-#### Áreas de Pesquisa
+#### <i class="fas fa-chart-bar"></i> Áreas de Pesquisa
 - Estatística Não-Paramétrica
 - Modelos de Mistura
 - Análise de Tecnologia de Saúde

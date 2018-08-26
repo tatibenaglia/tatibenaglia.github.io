@@ -4,14 +4,32 @@ title:""
 use-site-title: false
 ---
 
-## Orientações
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
+## <i class="fab fa-font-awesome"></i>Orientações de Alunos
 
 ### Graduação
 
 #### Iniciação Científica
 
+Victor Dalla Pria Cunha - Análise de Custo-Efetividade para Abordagens Diagnósticas de Testes Genéticos (Fomento: PIBIC, em andamento)
 
-#### Estágio Supervisionado
+
+#### ME810 - Estágio Supervisionado
+Na disciplina ME810 o aluno de graduação em Estatística desenvolve análise estatística de dados, apresentando monografia de final de curso sob orientação de um docente do departamento.
 
 
-### Pós-Graduação
+#### ME710 - Assessoria Estatística
+Na disciplina ME710 o aluno de graduação em Estatística desenvolve assessoria estatística, apresentando relatórios e apresentação oral sob orientação de um docente do departamento.
+
+
+#### Programa de Estágio Docente (PED)
+O programa possibilita o aperfeiçoamento da formação do estudante de Pós-Graduação com estágio em experiência docente e de apoio às atividades docentes.
+
+
+#### Programa de Apoio Didático (PAD)
+As atividades do PAD visam o aprimoramento do ensino de graduação através de monitoria exercida pelos estudantes, com o acompanhamento de um docente.
+
+
+### Mestrado
+Eric Krishna Peres Barbosa - Modelos de Mistura para Dados Longitudinais de Habilidade Cognitiva em Idosos (Fomento: CAPES, *Co-orientação*, Concluído Abril/2018) 

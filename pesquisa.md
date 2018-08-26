@@ -14,6 +14,6 @@ use-site-title: false
 
 #### <i class="fas fa-book"></i> Publicações
 
-CV Lattes: ![Abrir Lattes](img/lattes-logo.png)(http://lattes.cnpq.br/1292097563479677)
+CV Lattes: <a href="http://lattes.cnpq.br/1292097563479677"><img src="img/lattes-logo.png" title="Abrir CV Lattes"></a>
 
 Google Scholar: ![Abrir Google Scholar](img/Google_Scholar_logo.png)(https://scholar.google.com.br/citations?user=LYV5EJgAAAAJ&hl=en)

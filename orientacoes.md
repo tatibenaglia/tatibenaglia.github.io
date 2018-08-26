@@ -7,15 +7,20 @@ use-site-title: false
 
 ## <i class="fas fa-users"></i> Orientações de Alunos
 
-### Mestrado
+---- 
+
+### Pós-Graduação
+
+#### Mestrado
 Eric Krishna Peres Barbosa (Fomento: CAPES, *Co-orientação*, Concluído Abril/2018) <br />
 Dissertação: Modelos de Mistura para Dados Longitudinais de Habilidade Cognitiva em Idosos
 
 ----
 
+### Graduação
 #### Iniciação Científica
 
-Victor Dalla Pria Cunha (Fomento: PIBIC, em andamento)__
+Victor Dalla Pria Cunha (Fomento: PIBIC, em andamento) <br />
 Projeto: Análise de Custo-Efetividade para Abordagens Diagnósticas de Testes Genéticos
 
 ----

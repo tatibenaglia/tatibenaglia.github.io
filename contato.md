@@ -21,11 +21,7 @@ CEP: 13083-859
 
 ----
 
-### Email
-
-<i class="fas fa-at"></i> tatiana[at]ime.unicamp.br
-
-----
+<i class="fas fa-at"></i> Email: tatiana[at]ime.unicamp.br
 
 <i class="fab fa-github"></i> [tatibenaglia](https://github.com/tatibenaglia) 
 

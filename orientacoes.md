@@ -7,11 +7,17 @@ use-site-title: false
 
 ## <i class="fas fa-users"></i> Orientações de Alunos
 
+### Mestrado
+Eric Krishna Peres Barbosa (Fomento: CAPES, *Co-orientação*, Concluído Abril/2018) </br>
+Dissertação: Modelos de Mistura para Dados Longitudinais de Habilidade Cognitiva em Idosos
+
+
 ### Graduação
 
 #### Iniciação Científica
 
-Victor Dalla Pria Cunha - Análise de Custo-Efetividade para Abordagens Diagnósticas de Testes Genéticos (Fomento: PIBIC, em andamento)
+Victor Dalla Pria Cunha (Fomento: PIBIC, em andamento) </br>
+Projeto: Análise de Custo-Efetividade para Abordagens Diagnósticas de Testes Genéticos
 
 
 #### ME810 - Estágio Supervisionado
@@ -28,7 +34,3 @@ O programa possibilita o aperfeiçoamento da formação do estudante de Pós-Gra
 
 #### Programa de Apoio Didático (PAD)
 As atividades do PAD visam o aprimoramento do ensino de graduação através de monitoria exercida pelos estudantes, com o acompanhamento de um docente.
-
-
-### Mestrado
-Eric Krishna Peres Barbosa - Modelos de Mistura para Dados Longitudinais de Habilidade Cognitiva em Idosos (Fomento: CAPES, *Co-orientação*, Concluído Abril/2018) 

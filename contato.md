@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Contato"
 output:
   html_document
 use-site-title: false

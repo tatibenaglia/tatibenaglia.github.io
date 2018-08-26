@@ -26,13 +26,20 @@ use-site-title: false
 * ME850 - Seminários (1S2017)
 * ME906 - Métodos em Aprendizado Supervisionado de Máquina (2S2018)
 
+----
 
 ### Pós-Graduação
 * MI813 - Tópicos em Estatística - Modelos de Mistura Finita (Verão 2009)
 * MI404 - Métodos Estatísticos (Verão 2014)
 
+----
 
 ### Outros
-Minicurso - Introdução ao Aprendizado de Máquinas usando R - XII Encontro Científico dos Pós-Graduandos do IMECC (Outubro 2017)
+Minicurso: Introdução ao Aprendizado de Máquinas usando R - XII Encontro Científico dos Pós-Graduandos do IMECC (Outubro 2017)
 
-Curso - Planejamento e Análise de Experimentos - Facultad de Medicina, Universidad de la República, Montevidéu, Uruguai (Dezembro 2017)
+Curso: Diseño y Análisis Experimental - Facultad de Medicina, Universidad de la República, Montevidéu, Uruguai (Dezembro 2017)
+
+Curso: Metodologia Científica e Bioestatística - Mestrado em Hemoterapia - FCM, Unicamp (2017 e 2018)
+
+
+

@@ -1,16 +1,21 @@
 ---
 layout: page
+title: ""
 use-site-title: false
 ---
 
 ## <i class="fa fa-envelope"></i> Contato
 
 ----
-### Endereço
+<div class="columns-2">
+<img src="/img/logo-imecc.png" style="float: left; margin-right: 20px;" width="100">
+
+<h3>Endereço Institucional </h3>
 
 Rua Sergio Buarque de Holanda, 651 - Sala: 243 <br />
 Cidade Universitária, Campinas/SP - Brasil <br />
 CEP: 13083-859
+</div>
 
 ----
 

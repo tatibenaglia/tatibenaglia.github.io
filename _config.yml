@@ -69,7 +69,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
+author: Tatiana Benaglia
   name: Tatiana Benaglia
 
 # Select your active Social Network Links.
@@ -82,6 +82,7 @@ social-network-links:
   facebook: tatibenaglia
   github: tatibenaglia
   linkedin: tatiana-benaglia-6231291
+  telephone: +55 (19) 3521-5986
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -91,7 +92,6 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -105,7 +105,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "tatibenaglia.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

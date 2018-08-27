@@ -3,9 +3,7 @@ layout: page
 use-site-title: false
 ---
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-
-## <i class="fas fa-users"></i> Orientações de Alunos
+## <i class="fa fa-users"></i> Orientações de Alunos
 
 ----
 

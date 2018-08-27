@@ -25,6 +25,9 @@ description: Página pessoal com informações de formação, pesquisa e ensino.
 navbar-links:
   Informações Acadêmicas: "aboutme"
   Ensino: "ensino"
+    - ME414F: "http://www.ggte.unicamp.br/eam/course/view.php?id=8323"
+    - ME906A: "http://www.ggte.unicamp.br/eam/course/view.php?id=8326"
+    - Todos os Cursos: "tatibenaglia.github.io/ensino"
   # Pesquisa: "pesquisa"
   Orientações: "orientacoes"
   Contato: "contato"

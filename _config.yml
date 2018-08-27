@@ -25,7 +25,7 @@ description: Página pessoal com informações de formação, pesquisa e ensino.
 navbar-links:
   Informações Acadêmicas: "aboutme"
   Ensino: "ensino"
-  Pesquisa: "pesquisa"
+  # Pesquisa: "pesquisa"
   Orientações: "orientacoes"
   Contato: "contato"
 
@@ -72,9 +72,9 @@ author:
 social-network-links:
   rss: false
   email: "tatiana at ime.unicamp.br"
+  facebook: tatibenaglia
   github: tatibenaglia
   linkedin: tatiana-benaglia-6231291
-#  facebook: tatibenaglia
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali

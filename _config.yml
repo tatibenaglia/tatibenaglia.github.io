@@ -27,7 +27,7 @@ navbar-links:
   Ensino: "ensino"
     - ME414F: "http://www.ggte.unicamp.br/eam/course/view.php?id=8323"
     - ME906A: "http://www.ggte.unicamp.br/eam/course/view.php?id=8326"
-    - Todos os Cursos: "tatibenaglia.github.io/ensino"
+    - Todos os Cursos: "https://tatibenaglia.github.io/ensino/"
   # Pesquisa: "pesquisa"
   Orientações: "orientacoes"
   Contato: "contato"

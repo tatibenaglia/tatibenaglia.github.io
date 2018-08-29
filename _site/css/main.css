@@ -105,9 +105,6 @@ img {
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   
-  background-image: url(/img/rawpixel-600782-unsplash.jpg);
-  background-attachment: fixed;
-  
 }
 
 .navbar-custom .nav li a {

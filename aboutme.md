@@ -20,7 +20,7 @@ da <a href="http://www.unicamp.br">UNICAMP</a> desde Julho 2013.
 ----
 
 #### <i class="fa fa-graduation-cap"></i> Formação Acadêmica/Titulação
-- Bacharelado em Estatística - UNICAMP (1998 - 2001) <img src="/img/unicamp.jpg" width="45">
+- Bacharelado em Estatística - UNICAMP (1998 - 2001) <img src="/img/unicamp.png" width="45">
 - Mestrado em Estatística - UNICAMP (2002 - 2004)
 - Doutorado em Estatística - The Pennsylvania State University (2004 - 2008) <img src="/img/psu-logo.png" width="50">
 - Pós-Doutorado - Medical Research Center - Biostatistics Unit - Cambridge/UK (2009-2012) <img src="/img/MRC-logo.jpg" width="70">

@@ -9,9 +9,8 @@ use-site-title: false
 ### Graduação
 
 ----
-#### Semestre Atual (2S2018)
-* [ME414F - Estatística para Experimentalistas](http://www.ggte.unicamp.br/eam/course/view.php?id=8323)
-* [ME906A/ME601B/ME710B - Métodos em Aprendizado Supervisionado de Máquina](http://www.ggte.unicamp.br/eam/course/view.php?id=8326)
+#### Semestre Atual (1S2019)
+* [ME115A - Introdução à Linguagem R](http://www.ggte.unicamp.br/eam/course/view.php?id=11048)
 
 ----
 #### Semestres Anteriores
@@ -19,7 +18,7 @@ use-site-title: false
 | Código  | Disciplina   | Semestres  |
 | :------ |:------------ | :--------- |
 | ME111   | Laboratório de Estatística | 1S2016
-| ME115   | Introdução à Linguagem R   | 1S2018
+| ME115   | Introdução à Linguagem R   | 1S2018 1S2019
 | ME323   | Introdução aos Modelos Probabilísticos | 1S2014
 | ME414   | Estatística para Experimentalistas | 2S2015 2S2016 2S2018
 | ME415   | Método Científico de Técnicas de Pesquisa | 2S217

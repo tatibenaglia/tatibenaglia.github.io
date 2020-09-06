@@ -9,7 +9,7 @@ use-site-title: false
 ### Graduação
 
 ----
-#### Semestre Atual (2S2019)
+#### Semestre Atual (2S2020)
 * [ME315B - Manipulação de Banco de Dados](https://moodle.ggte.unicamp.br/course/view.php?id=7543)
 * [ME414F - Estatística para Experimentalistas](https://moodle.ggte.unicamp.br/course/view.php?id=7566)
 * [ME712/M812 - Consultoria Estatística I e II](https://moodle.ggte.unicamp.br/course/view.php?id=7568)

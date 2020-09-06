@@ -15,11 +15,9 @@ da <a href="http://www.unicamp.br">UNICAMP</a> desde Julho 2013.
 
 <br />
 
-Coordenador da Graduação em Estatística (Agosto 2020 - presente)
+Coordenadora da Graduação em Estatística (Agosto 2020 - presente)
 
 </div>
-
-<br />
 
 ----
 

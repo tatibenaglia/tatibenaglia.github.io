@@ -13,6 +13,10 @@ Docente e pesquisadora (MS-3.1) do Departamento de Estatística no Instituto de 
 <a href="http://www.ime.unicamp.br">(IMECC)</a>
 da <a href="http://www.unicamp.br">UNICAMP</a> desde Julho 2013.
 
+<br />
+
+Coordenador da Graduação em Estatística (Agosto 2020 - presente)
+
 </div>
 
 <br />

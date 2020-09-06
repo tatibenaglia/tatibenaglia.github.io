@@ -19,6 +19,8 @@ Coordenadora da Graduação em Estatística (Agosto 2020 - presente)
 
 </div>
 
+<br />
+
 ----
 
 #### <i class="fa fa-graduation-cap"></i> Formação Acadêmica/Titulação

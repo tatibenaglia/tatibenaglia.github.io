@@ -11,11 +11,7 @@ use-site-title: false
 
 Docente e pesquisadora (MS-3.1) do Departamento de Estatística no Instituto de Matemática, Estatística e Computação Científica
 <a href="http://www.ime.unicamp.br">(IMECC)</a>
-da <a href="http://www.unicamp.br">UNICAMP</a> desde Julho 2013.
-
-<br />
-
-Coordenadora da Graduação em Estatística (Agosto 2020 - presente)
+da <a href="http://www.unicamp.br">UNICAMP</a> desde Julho 2013. Atuei como Coordenadora de Graduação do Bacharelado em Estatística de Agosto 2020 a Setembro 2024.
 
 </div>
 
@@ -34,6 +30,7 @@ Coordenadora da Graduação em Estatística (Agosto 2020 - presente)
 #### <i class="fa fa-bar-chart"></i> Áreas de Pesquisa
 - Estatística Não-Paramétrica
 - Modelos de Mistura
+- Modelagem Estatística
 - Análise de Tecnologia de Saúde
 - Estatística Aplicada
 
